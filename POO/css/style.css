@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+section {
+    text-align: center;
+    background-color: darkred;
+    border-radius: 5px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    color: black;
+}
+img {
+    border-radius: 10px;
+}
+.resultados{
+    background-color: white;
+}
+
+h1 {
+    color: white;
+}
